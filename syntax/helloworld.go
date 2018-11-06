@@ -1,4 +1,4 @@
-package syntax
+package main
 import "fmt"
 
 var v = 1 // 作用域是包package内部，不是全局的作用域

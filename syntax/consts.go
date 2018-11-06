@@ -1,4 +1,4 @@
-package syntax
+package main
 
 import (
 	"fmt"
@@ -8,7 +8,7 @@ import (
 const typeC = "typeC"
 
 func consts() {
-	const filename = "file.txt"
+	const filename = "aaa.txt"
 	// const数值 可作为各种类型使用 int float
 	const a, b = 3, 4
 	var c int
